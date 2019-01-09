@@ -34,6 +34,45 @@ li {
     color: black(14, 14, 15);
 }
 
+/*^^^^^^^end change bullet points color*/
+
 strong {
     color: purple;
+}
+
+/*crystal img css*/
+.crystals {
+    clear: both;
+    width: 23%;
+    display: flex;
+}
+
+.crysImage {
+    height: 60px;
+    margin: 10px;
+
+}
+
+.crysFloat {
+    /* float: none; */
+    /* position: relative; */
+    /* width: 30%; */
+    /* display: inline-block; */
+}
+
+/*^^^^end crystal css*/
+
+/* #floatRight {
+    float: right
+} */
+
+.largeText {
+    font-size: 60px;
+}
+
+
+.cardBorder {
+    border-style: solid;
+    border-color: rgb(199, 113, 0);
+    border-width: 3px;
 }
