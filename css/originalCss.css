@@ -11,6 +11,11 @@
     text-shadow: -1px 0 black, 0 0.2px black, 0.2px 0 black, 0 -1px black;
 }
 
+#greenText {
+    color: green;
+}
+
+/*changine bullet points to match text color css. makes the 'yellow' bullet point pop.*/
 ul {
     list-style: none;
     /* Remove list bullets */
@@ -29,13 +34,6 @@ li {
     color: black(14, 14, 15);
 }
 
-
-#greenText {
-    color: green;
+strong {
+    color: purple;
 }
-
-/* editing github icon*/
-
-/* .social-icons a i {
-    padding-top: 20px;
-} */
