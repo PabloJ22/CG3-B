@@ -1,0 +1,16 @@
+#blueText {
+    color: blue;
+}
+
+#redText {
+    color: red;
+}
+
+#yellowText {
+    color: yellow;
+    text-shadow: -1px 0 black, 0 0.2px black, 0.2px 0 black, 0 -1px black;
+}
+
+#greenText {
+    color: green;
+}
